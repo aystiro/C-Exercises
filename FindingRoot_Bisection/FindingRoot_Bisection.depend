@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551219958 source:c:\users\emiry\desktop\cmpe 252\workspace\findingroot_bisection\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

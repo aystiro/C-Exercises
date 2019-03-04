@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550674819 source:c:\users\emiry\desktop\cmpe 252\workspace\departuretimefunction\main.c
+	<stdio.h>
+	<stdlib.h>
+
